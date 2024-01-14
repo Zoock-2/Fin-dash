@@ -1,0 +1,22 @@
+{
+    "ShowLogs": true,
+    "QMainWindow": [
+        {
+            "tittle": "Dashboard"
+        }
+    ],
+    "QSettings": [
+        {
+            "ThemeSettings": [
+                {
+                    "CustomTheme": []
+                }
+            ],
+            "AppSettings": {
+                "OrginizationName": "Dashboard",
+                "ApplicationName": "Dashboard Company",
+                "OrginizationDormain": "Dashboard.org"
+            }
+        }
+    ]
+}
